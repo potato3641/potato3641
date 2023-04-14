@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=black"/>
   <hr>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641&layout=compact&theme=radical&langs_count=10&hide=Vue,javascript)](https://github.com/potato3641)
-  ![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641&layout=compact&langs_count=10&hide=Vue,javascript)](https://github.com/potato3641)
+  ![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&show_icons=true&count_private=true&include_all_commits=true)
   
   
 <!--   <br><br><br>
