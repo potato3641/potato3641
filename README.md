@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641&layout=compact&hide=Vue)](https://github.com/potato3641)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641&layout=compact&hide=Vue,javascript)](https://github.com/potato3641)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato3641&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
