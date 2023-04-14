@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&show_icons=true&theme=prussian)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato3641&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641)](https://github.com/anuraghazra/github-readme-stats)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato3641&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  ![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&show_icons=true&theme=prussian&count_private=true)
   
 <!--   <br><br><br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=potato3641) -->
