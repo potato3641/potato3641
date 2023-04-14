@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <hr>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potato3641&layout=compact&langs_count=10&hide=Vue,javascript)](https://github.com/potato3641)
-  ![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&theme=prussian&show_icons=true&count_private=true&include_all_commits=true)
+  ![potato3641's github stats](https://github-readme-stats.vercel.app/api?username=potato3641&theme=prussian&show_icons=true&count_private=true)
   
   
 <!--   <br><br><br>
