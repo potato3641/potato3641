@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato3641&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <b>[Calendar](https://potato3641.github.io)</b>
   <hr>
   
   ### :fire: Tech Stack :fire:
