@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpotato3641&count_bg=%237CB252&title_bg=%23555555&icon=baidu.svg&icon_color=%23D55E5E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![알고리즘 달력](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/github-pages-examples/github-pages-examples.png](https://cdn-icons-png.flaticon.com/512/25/25231.png){: width="100" height="100"}](https://potato3641.github.io)
+  [![알고리즘 달력](https://cdn-icons-png.flaticon.com/512/25/25231.png){: width="100" height="100"}](https://potato3641.github.io)
   <hr>
   
   ### :fire: Tech Stack :fire:
